@@ -1,2 +1,2 @@
 # AyED
-Nombre: Rodrigo Alexandro Horna Masias
+Rodrigo Alexandro Horna Masias
